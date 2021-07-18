@@ -4,4 +4,4 @@
 - Part-time Technology Consultant at EY.
 - Currently interested in building webapps and DeFi.
 - Currently learning Java Spring MVC, Blockchain fundamentals and computer networking.
-- Reach me at maxgoodwin3@protonmail.com and https://www.linkedin.com/in/max-goodwin/
+- Reach me at maxgoodwin3@pm.me and https://www.linkedin.com/in/max-goodwin/
